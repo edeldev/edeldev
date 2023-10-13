@@ -7,7 +7,7 @@
 ![github-followers](https://img.shields.io/github/followers/edeldev)
 ![yt-followers](https://img.shields.io/youtube/channel/subscribers/UCY8L1pp2pvOGI7SwlwgAgPg)
 
-## Sobre mí:
+## Sobre mí 😊:
 
 - 🎓Ingeniero Administrador de Sistemas
 - 💻Web Developer
@@ -19,8 +19,8 @@
   <h2>Portafolio Personal</h2>
   <img src="https://github.com/edeldev/edeldev/assets/102327957/4d38638c-474d-4669-b079-f752d8fad6f4" alt="portafolio" width="600" height="auto" />
   <div>
-    <a href="https://edeldevnew.netlify.app"> <img src="https://img.shields.io/badge/Visitar-0CF0FF" /></a>
-    <a href="https://github.com/edeldev/Sitio-Web-Personal-edeldev"> <img src="https://img.shields.io/badge/Codigo-black" /></a>
+    <a href="https://edeldevnew.netlify.app" target="blank"> <img src="https://img.shields.io/badge/Visitar-0CF0FF" /></a>
+    <a href="https://github.com/edeldev/Sitio-Web-Personal-edeldev" target="blank"> <img src="https://img.shields.io/badge/Codigo-black" /></a>
   </div>
 </div>
 
@@ -28,12 +28,12 @@
   <h2>Tienda Virtual</h2>
   <img src="https://github.com/edeldev/edeldev/assets/102327957/a695ea91-6537-4eb4-adaa-1013600d5442" alt="tienda-virtual" width="600" height="auto" />
   <div>
-    <a href="https://ledbeey.vercel.app"> <img src="https://img.shields.io/badge/Visitar-FFFF99" /></a>
-    <a href="https://github.com/edeldev/ledbeey"> <img src="https://img.shields.io/badge/Codigo-black" /></a>
+    <a href="https://ledbeey.vercel.app" target="blank"> <img src="https://img.shields.io/badge/Visitar-FFFF99" /></a>
+    <a href="https://github.com/edeldev/ledbeey" target="blank"> <img src="https://img.shields.io/badge/Codigo-black" /></a>
   </div>
 </div>
 
-## Tecnologías que utilizo:
+## Tecnologías que utilizo ⚒️:
 Lenguajes de Programación: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -57,3 +57,6 @@ Tools:
 ![Redux](https://img.shields.io/badge/Redux-7248B6?logo=redux)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+
+## Contacto ✉️:
+<p>¡Vamos a crear juntos! contactame atraves de mi <a href="https://www.linkedin.com/in/edeldeev/" target="blank">Linkedin</a> o por correo electronico <a href="mailto:edeldev25@gmail.com" target="blank">edeldev25@gmail.com</a> </p>
