@@ -19,8 +19,8 @@
   <h2>Portafolio Personal</h2>
   <img src="https://github.com/edeldev/edeldev/assets/102327957/4d38638c-474d-4669-b079-f752d8fad6f4" alt="portafolio" width="600" height="auto" />
   <div>
-    <a href="https://edeldevnew.netlify.app" target="blank"> <img src="https://img.shields.io/badge/Visitar-0CF0FF" /></a>
-    <a href="https://github.com/edeldev/Sitio-Web-Personal-edeldev" target="blank"> <img src="https://img.shields.io/badge/Codigo-black" /></a>
+    <a href="https://edeldevnew.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Visitar-0CF0FF" /></a>
+    <a href="https://github.com/edeldev/Sitio-Web-Personal-edeldev" target="_blank"> <img src="https://img.shields.io/badge/Codigo-black" /></a>
   </div>
 </div>
 
@@ -28,8 +28,8 @@
   <h2>Tienda Virtual</h2>
   <img src="https://github.com/edeldev/edeldev/assets/102327957/a695ea91-6537-4eb4-adaa-1013600d5442" alt="tienda-virtual" width="600" height="auto" />
   <div>
-    <a href="https://ledbeey.vercel.app" target="blank"> <img src="https://img.shields.io/badge/Visitar-FFFF99" /></a>
-    <a href="https://github.com/edeldev/ledbeey" target="blank"> <img src="https://img.shields.io/badge/Codigo-black" /></a>
+    <a href="https://ledbeey.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Visitar-FFFF99" /></a>
+    <a href="https://github.com/edeldev/ledbeey" target="_blank"> <img src="https://img.shields.io/badge/Codigo-black" /></a>
   </div>
 </div>
 
@@ -59,4 +59,4 @@ Tools:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 
 ## Contacto ✉️:
-<p>¡Vamos a crear juntos! contactame atraves de mi <a href="https://www.linkedin.com/in/edeldeev/" target="blank">Linkedin</a> o por correo electronico <a href="mailto:edeldev25@gmail.com" target="blank">edeldev25@gmail.com</a> </p>
+<p>¡Vamos a crear juntos! contactame atraves de mi <a href="https://www.linkedin.com/in/edeldeev/" target="_blank">Linkedin</a> o por correo electronico <a href="mailto:edeldev25@gmail.com" target="_blank">edeldev25@gmail.com</a> </p>
