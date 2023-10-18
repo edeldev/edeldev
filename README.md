@@ -2,7 +2,7 @@
   <h2>Hola, soy <a href="https://edeldevnew.netlify.app" target="_blank">edeldev</a> 👋.
 </div>
 
-![linkdin-banner](https://github.com/edeldev/edeldev/assets/102327957/61b88cfe-cb44-4f7d-8776-ef48cb58884f)
+![BANNER-LINDLN](https://github.com/edeldev/edeldev/assets/102327957/762fa202-6f77-4b45-8bcc-f94aaf114cfc)
 
 ![github-followers](https://img.shields.io/github/followers/edeldev)
 ![yt-followers](https://img.shields.io/youtube/channel/subscribers/UCY8L1pp2pvOGI7SwlwgAgPg)
