@@ -60,7 +60,3 @@ Tools:
 
 ## Contacto ✉️:
 <p>¡Vamos a crear juntos! contactame atraves de mi <a href="https://www.linkedin.com/in/edeldeev/" target="_blank">Linkedin</a> o por correo electronico <a href="mailto:edeldev25@gmail.com" target="_blank">edeldev25@gmail.com</a> </p>
-
-![EdelDev](https://github.com/user-attachments/assets/9a41e1c4-e408-4b8e-9e6f-48ee9693dec2)
-
-
